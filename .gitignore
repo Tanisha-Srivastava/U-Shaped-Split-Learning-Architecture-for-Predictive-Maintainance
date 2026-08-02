@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore generated directories
+indices/
+logs/
+plots/
+
+# Ignore model checkpoints
+*.pth
+
+# Ignore JSON files
+*.json
+
+# Ignore CSV files
+*.csv
+
+# Ignore specific files
+privacy.py
+portal_app.py
+server_diff_pc.py
+
+# Optional OS files
+.DS_Store
+Thumbs.db
