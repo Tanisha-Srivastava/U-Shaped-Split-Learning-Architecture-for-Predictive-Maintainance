@@ -292,17 +292,3 @@ python privacy_analysis.py
 - Distributed Machine Learning
 - Collaborative Industrial Analytics
 
----
-
-# Future Enhancements
-
-- Differential Privacy
-- Secure Aggregation
-- Gradient Compression
-- Homomorphic Encryption
-- Multi-server Split Learning
-- Dynamic Model Partitioning
-- Asynchronous Training
-- Real-time Edge Deployment
-
----
